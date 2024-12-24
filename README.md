@@ -5,7 +5,7 @@
 - Leetcode:                           [Raxmatilla Muhamadaliyev](https://leetcode.com/Raxmatill96)
 - Telegram:                           [Raxmatilla Muhammadaliyev](https://t.me/@Ryu609)
 ## Main tools
-[![My Skills](https://skillicons.dev/icons?i=python,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,sql,sqllite,pstgressql)](https://skillicons.dev)
 
 ## Other tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pycharm)](https://skillicons.dev)
